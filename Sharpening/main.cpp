@@ -7,6 +7,7 @@
 #include <ctime>
 #include <cstdlib>
 
+// test change to check how git works
 
 ////////////////////////////////////////////////////////////
 /// Entry point of application
